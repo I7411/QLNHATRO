@@ -1,0 +1,94 @@
+{
+    "invoices": [
+        {
+            "id": "A01",
+            "name": "Nguyễn Văn Tùng",
+            "month": "2025-05",
+            "rent_amount": 2500000,
+            "is_paid": true,
+            "account_payable": 0,
+            "payment_date": "2025-05-27"
+        },
+        {
+            "id": "A10",
+            "name": "Trần Thị Hạnh",
+            "month": "2025-05",
+            "rent_amount": 2500000,
+            "is_paid": false,
+            "account_payable": 2500000,
+            "payment_date": ""
+        },
+        {
+            "id": "B03",
+            "name": "Ngô Minh Tú",
+            "month": "2025-05",
+            "rent_amount": 1800000,
+            "is_paid": false,
+            "account_payable": 1800000,
+            "payment_date": ""
+        },
+        {
+            "id": "B04",
+            "name": "Phạm Thị Lan",
+            "month": "2025-05",
+            "rent_amount": 1800000,
+            "is_paid": true,
+            "account_payable": 0,
+            "payment_date": "2025-05-26"
+        },
+        {
+            "id": "B05",
+            "name": "Trịnh Gia Hưng",
+            "month": "2025-05",
+            "rent_amount": 1800000,
+            "is_paid": false,
+            "account_payable": 1800000,
+            "payment_date": ""
+        },
+        {
+            "id": "B06",
+            "name": "Lương Hồng Ngọc",
+            "month": "2025-05",
+            "rent_amount": 1800000,
+            "is_paid": false,
+            "account_payable": 1800000,
+            "payment_date": ""
+        },
+        {
+            "id": "B09",
+            "name": "Phan Thị Hồng",
+            "month": "2025-05",
+            "rent_amount": 1800000,
+            "is_paid": false,
+            "account_payable": 1800000,
+            "payment_date": ""
+        },
+        {
+            "id": "A11",
+            "name": "Trần Thị Anh",
+            "month": "2025-05",
+            "rent_amount": 2500000,
+            "is_paid": false,
+            "account_payable": 2500000,
+            "payment_date": ""
+        },
+        {
+            "id": "B10",
+            "name": "Phan Thị Hồng",
+            "month": "2025-05",
+            "rent_amount": 1800000,
+            "is_paid": false,
+            "account_payable": 1800000,
+            "payment_date": ""
+        },
+        {
+            "id": "B10",
+            "name": "Hoàng Thị Hoa",
+            "month": "2025-05",
+            "rent_amount": 1800000,
+            "is_paid": false,
+            "account_payable": 1800000,
+            "payment_date": ""
+        }
+    ]
+}

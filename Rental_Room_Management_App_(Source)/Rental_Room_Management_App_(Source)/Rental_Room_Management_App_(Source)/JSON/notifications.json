@@ -1,0 +1,39 @@
+{
+    "notifications": [
+        {
+            "invoice_id": "A10",
+            "name": "Trần Thị Hạnh",
+            "message": "Phòng A10 (Trần Thị Hạnh) còn nợ tiền thuê tháng 2025-05 (2,500,000 VNĐ).",
+            "date_created": "2025-05-26",
+            "is_viewed": false
+        },
+        {
+            "invoice_id": "B03",
+            "name": "Ngô Minh Tú",
+            "message": "Phòng B03 (Ngô Minh Tú) còn nợ tiền thuê tháng 2025-05 (1,800,000 VNĐ).",
+            "date_created": "2025-05-26",
+            "is_viewed": false
+        },
+        {
+            "invoice_id": "B05",
+            "name": "Trịnh Gia Hưng",
+            "message": "Phòng B05 (Trịnh Gia Hưng) còn nợ tiền thuê tháng 2025-05 (1,800,000 VNĐ).",
+            "date_created": "2025-05-26",
+            "is_viewed": false
+        },
+        {
+            "invoice_id": "B06",
+            "name": "Lương Hồng Ngọc",
+            "message": "Phòng B06 (Lương Hồng Ngọc) còn nợ tiền thuê tháng 2025-05 (1,800,000 VNĐ).",
+            "date_created": "2025-05-26",
+            "is_viewed": false
+        },
+        {
+            "invoice_id": "B09",
+            "name": "Phan Thị Hồng",
+            "message": "Phòng B09 (Phan Thị Hồng) còn nợ tiền thuê tháng 2025-05 (1,800,000 VNĐ).",
+            "date_created": "2025-05-26",
+            "is_viewed": false
+        }
+    ]
+}

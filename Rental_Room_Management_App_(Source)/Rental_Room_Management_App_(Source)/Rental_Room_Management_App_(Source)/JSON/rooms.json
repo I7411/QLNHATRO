@@ -1,0 +1,305 @@
+{
+    "rooms": [
+        {
+            "id": "A01",
+            "name": "Phòng A01",
+            "status": "Đang thuê",
+            "price": 2500000,
+            "Khach": [
+                {
+                    "HoTen": "Nguyễn Văn Tùng",
+                    "NgaySinh": "2006-04-06",
+                    "SoDienThoai": "0909123456",
+                    "QueQuan": "TP.HCM",
+                    "CCCD": "078901234567",
+                    "TienCoc": 2500000,
+                    "NgayThue": "2025-04-15",
+                    "GhiChu": ""
+                }
+            ],
+            "LichSu": [
+                {
+                    "HoTen": "Trần Văn B",
+                    "NgayTra": "2025-05-23"
+                }
+            ]
+        },
+        {
+            "id": "A02",
+            "name": "Phòng A02",
+            "status": "Trống",
+            "price": 2500000,
+            "Khach": null,
+            "LichSu": [
+                {
+                    "HoTen": "Nguyễn Thị B",
+                    "NgayTra": "2025-03-26"
+                },
+                {
+                    "HoTen": "Trần Văn A",
+                    "NgayTra": "2025-04-06"
+                },
+                {
+                    "HoTen": "Huỳnh Thanh Minh Tâm",
+                    "NgayTra": "2025-05-06"
+                }
+            ]
+        },
+        {
+            "id": "A03",
+            "name": "Phòng A03",
+            "status": "Trống",
+            "price": 2500000,
+            "Khach": null,
+            "LichSu": [
+                {
+                    "HoTen": "Lê Văn Hòa",
+                    "NgayTra": "2025-03-30"
+                }
+            ]
+        },
+        {
+            "id": "A04",
+            "name": "Phòng A04",
+            "status": "Trống",
+            "price": 2500000,
+            "Khach": null,
+            "LichSu": []
+        },
+        {
+            "id": "A05",
+            "name": "Phòng A05",
+            "status": "Trống",
+            "price": 2500000,
+            "Khach": null,
+            "LichSu": [
+                {
+                    "HoTen": "Đặng Văn C",
+                    "NgayTra": "2025-01-10"
+                }
+            ]
+        },
+        {
+            "id": "A06",
+            "name": "Phòng A06",
+            "status": "Trống",
+            "price": 2500000,
+            "Khach": null,
+            "LichSu": []
+        },
+        {
+            "id": "A07",
+            "name": "Phòng A07",
+            "status": "Trống",
+            "price": 2500000,
+            "Khach": null,
+            "LichSu": []
+        },
+        {
+            "id": "A08",
+            "name": "Phòng A08",
+            "status": "Trống",
+            "price": 2500000,
+            "Khach": null,
+            "LichSu": []
+        },
+        {
+            "id": "A10",
+            "name": "Phòng A10",
+            "status": "Đang thuê",
+            "price": 2500000,
+            "Khach": [
+                {
+                    "HoTen": "Trần Thị Hạnh",
+                    "NgaySinh": "2002-07-22",
+                    "SoDienThoai": "0912345670",
+                    "QueQuan": "Bình Dương",
+                    "CCCD": "076543210987",
+                    "TienCoc": 2500000,
+                    "NgayThue": "2025-05-05",
+                    "GhiChu": ""
+                }
+            ],
+            "LichSu": []
+        },
+        {
+            "id": "A11",
+            "name": "Phòng A11",
+            "status": "Đang thuê",
+            "price": 2500000,
+            "Khach": [
+                {
+                    "HoTen": "Trần Thị Anh",
+                    "NgaySinh": "2006-05-09",
+                    "SoDienThoai": "",
+                    "QueQuan": "",
+                    "CCCD": "",
+                    "TienCoc": "2500000",
+                    "NgayThue": "2025-05-27",
+                    "GhiChu": ""
+                }
+            ],
+            "LichSu": []
+        },
+        {
+            "id": "B01",
+            "name": "Phòng B01",
+            "status": "Trống",
+            "price": 2500000,
+            "Khach": null,
+            "LichSu": [
+                {
+                    "HoTen": "Hứa Vĩnh Khang",
+                    "NgayTra": "2025-05-06"
+                }
+            ]
+        },
+        {
+            "id": "B02",
+            "name": "Phòng B02",
+            "status": "Trống",
+            "price": 1800000,
+            "Khach": null,
+            "LichSu": [
+                {
+                    "HoTen": "Hứa Vĩnh Khang",
+                    "NgayTra": "2025-05-07"
+                }
+            ]
+        },
+        {
+            "id": "B03",
+            "name": "Phòng B03",
+            "status": "Đang thuê",
+            "price": 1800000,
+            "Khach": [
+                {
+                    "HoTen": "Ngô Minh Tú",
+                    "NgaySinh": "2003-08-15",
+                    "SoDienThoai": "0912345678",
+                    "QueQuan": "Quận 5, TP.HCM",
+                    "CCCD": "012345678901",
+                    "TienCoc": 1800000,
+                    "NgayThue": "2025-04-20",
+                    "GhiChu": ""
+                }
+            ],
+            "LichSu": []
+        },
+        {
+            "id": "B04",
+            "name": "Phòng B04",
+            "status": "Đang thuê",
+            "price": 1800000,
+            "Khach": [
+                {
+                    "HoTen": "Phạm Thị Lan",
+                    "NgaySinh": "2001-11-30",
+                    "SoDienThoai": "0908765432",
+                    "QueQuan": "Bình Dương",
+                    "CCCD": "078956123456",
+                    "TienCoc": 1800000,
+                    "NgayThue": "2025-03-15",
+                    "GhiChu": ""
+                }
+            ],
+            "LichSu": []
+        },
+        {
+            "id": "B05",
+            "name": "Phòng B05",
+            "status": "Đang thuê",
+            "price": 1800000,
+            "Khach": [
+                {
+                    "HoTen": "Trịnh Gia Hưng",
+                    "NgaySinh": "2000-02-02",
+                    "SoDienThoai": "0977888999",
+                    "QueQuan": "Long An",
+                    "CCCD": "084456789012",
+                    "TienCoc": 1800000,
+                    "NgayThue": "2025-02-25",
+                    "GhiChu": ""
+                }
+            ],
+            "LichSu": []
+        },
+        {
+            "id": "B06",
+            "name": "Phòng B06",
+            "status": "Đang thuê",
+            "price": 1800000,
+            "Khach": [
+                {
+                    "HoTen": "Lương Hồng Ngọc",
+                    "NgaySinh": "2002-07-07",
+                    "SoDienThoai": "0933222111",
+                    "QueQuan": "Cần Thơ",
+                    "CCCD": "087654321000",
+                    "TienCoc": 1800000,
+                    "NgayThue": "2025-05-01",
+                    "GhiChu": ""
+                }
+            ],
+            "LichSu": []
+        },
+        {
+            "id": "B07",
+            "name": "Phòng B07",
+            "status": "Trống",
+            "price": 1800000,
+            "Khach": [],
+            "LichSu": [
+                {
+                    "HoTen": "Trần Văn Bình",
+                    "NgayTra": "2025-04-15"
+                }
+            ]
+        },
+        {
+            "id": "B08",
+            "name": "Phòng B08",
+            "status": "Trống",
+            "price": 1800000,
+            "Khach": [],
+            "LichSu": []
+        },
+        {
+            "id": "B09",
+            "name": "Phòng B09",
+            "status": "Đang thuê",
+            "price": 1800000,
+            "Khach": [
+                {
+                    "HoTen": "Phan Thị Hồng",
+                    "NgaySinh": "2003-09-12",
+                    "SoDienThoai": "0909123456",
+                    "QueQuan": "Đồng Nai",
+                    "CCCD": "079123456789",
+                    "NgayThue": "2025-04-25",
+                    "GhiChu": ""
+                }
+            ],
+            "LichSu": []
+        },
+        {
+            "id": "B10",
+            "name": "Phòng B10",
+            "status": "Đang thuê",
+            "price": 1800000,
+            "Khach": [
+                {
+                    "HoTen": "Hoàng Thị Hoa",
+                    "NgaySinh": "2006-05-30",
+                    "SoDienThoai": "0382767189",
+                    "QueQuan": "Hồ Chí Minh",
+                    "CCCD": "079201168911",
+                    "TienCoc": "1800000",
+                    "NgayThue": "2025-05-28",
+                    "GhiChu": ""
+                }
+            ],
+            "LichSu": []
+        }
+    ]
+}
